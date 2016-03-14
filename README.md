@@ -12,9 +12,9 @@ Those are all benchmarks and results which we used.
 
 03 Result
 
- results were saved in result.txt
+results were saved in result.txt
 
 04 Statics
 
-  Statics infotmation was saved in ./output_info/statics.txxt
+Statics infotmation was saved in ./output_info/statics.txxt
   
